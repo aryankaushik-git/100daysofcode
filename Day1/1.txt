@@ -1,3 +1,4 @@
 Started the Freecodecamp frontend WebDev Course
 
-1. On CLick Color changer on Browser
+1. On CLick Color changer on Browser through On Browser console
+
